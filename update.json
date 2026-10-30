@@ -1,0 +1,26 @@
+{
+ "format": 1,
+ "version": "0.3.199",
+ "published": "2026-10-30 20:07:55",
+ "notes": "Mod 0.3.199 : moins de d\u00e9connexions (runtime et serveur corrig\u00e9s), crash d'un objet port\u00e9 corrig\u00e9, chuchus de l'Arbre Mojo propres \u00e0 chaque joueur, baguette et grappin ne t\u00e9l\u00e9portent plus les autres, tornades de la mer synchronis\u00e9es, animations reprises apr\u00e8s une pause, A pr\u00e8s du bateau pirate pour monter dessus, upgrade Triple Bow. Le runtime est \u00e0 ret\u00e9l\u00e9charger.",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "ac8c7a02bc2edf52c78dc05d3dcd5fbe011317affbcb7ea002fe12ae22a61a26",
+   "size": 29643105,
+   "jar_sha256": "5b44649cfa739eada002b94cd4bcf172a62a98b1f3854c71d839c924f5447ca8"
+  },
+  "mod": {
+   "path": "mod/multiplayer-connection-0.3.199.wwhdmod",
+   "sha256": "ebc038ac181123d4eddb311304736a06c94d6bc27f6bc6b40649bf55310d01b1",
+   "size": 711839,
+   "version": "0.3.199"
+  },
+  "runtime": {
+   "path": "runtime/WindWakerHD-v0.4.0-online-windows-x86_64.zip",
+   "sha256": "a0b7b682c6387befd5eb83b82406547c83243c0996ea149def875acae1189b12",
+   "size": 41860881,
+   "runtime_id": "0d6109ecd86e3aa946892cd0520fa725d40624c7f85b877823159876944ad449"
+  }
+ }
+}
